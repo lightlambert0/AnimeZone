@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap:
-https://lightlambert0.github.io/Site-web./sitemap.xml
