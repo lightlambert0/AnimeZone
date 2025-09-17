@@ -10,9 +10,11 @@ name="google-site-verification"
 content="Qp3kLJmgaDOFo7k6jYf-wK9uOx4VX_G7NRMQcibkHBc" /> 
 <link rel="stylesheet"
 href="style.css" />
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
-   
+       
   <h1 style="margin: 0;
 padding: 0;">
   <img src="img6.jpg" 
@@ -21,6 +23,20 @@ style="height: 80px;
 display: block; margin: 0;
 padding: 0;">
 Anime Zone
+<div
+class="search-container">
+<i class="fas fa-search
+search-icon"></i>
+     <input type="text"
+id="searchinput"
+placeholder="Rechercher un animé..."
+onkeypress="allerVersAnime(event)"
+style="padding: 8px; width:
+80%; max-width: 400px;">
+     <button
+id="searchButton">Recherche
+     </button>
+</div>
  </h1>
   <p>Bienvenue sur Anime
 Zone, découvre tes animés
