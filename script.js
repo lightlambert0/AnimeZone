@@ -2,7 +2,9 @@ const animePages = {
   "one piece":
 "onepiece.html",
   "demon slayer":
-"démonslayer.html"
+"démonslayer.html",
+  "fire force":
+"fireforce.html"
 };
 
 function rechercherAnime() {
