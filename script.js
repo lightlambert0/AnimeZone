@@ -4,7 +4,9 @@ const animePages = {
   "demon slayer":
 "démonslayer.html",
   "fire force":
-"fireforce.html"
+"fireforce.html",
+  "dandadan":
+"dandadan.html"
 };
 
 function rechercherAnime() {
