@@ -8,7 +8,9 @@ const animePages = {
   "dandadan":
 "dandadan.html",
   "kaiju no 8":
-"kaiju no 8.html"
+"kaiju no 8.html",
+  "dr.stone":
+"dr.stone.html"
 };
 
 function rechercherAnime() {
